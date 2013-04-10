@@ -1,0 +1,55 @@
+ 驱动器 D 中的卷没有标签。
+ 卷的序列号是 EC54-D443
+
+ D:\ogreoutput\lib\Debug 的目录
+
+2013/04/10  16:10         4,396,928 OgreMain_d.lib
+2013/04/10  16:11           163,680 OgrePaging_d.lib
+2013/04/10  16:11           578,094 OgreRTShaderSystem_d.lib
+2013/04/10  16:11           327,468 OgreTerrain_d.lib
+2013/04/10  16:11             2,236 Plugin_BSPSceneManager_d.lib
+2013/04/10  16:11             2,248 Plugin_CgProgramManager_d.lib
+2013/04/10  16:12            51,152 Plugin_OctreeSceneManager_d.lib
+2013/04/10  16:11            26,354 Plugin_OctreeZone_d.lib
+2013/04/10  16:12           128,366 Plugin_ParticleFX_d.lib
+2013/04/10  16:11           192,570 Plugin_PCZSceneManager_d.lib
+2013/04/10  16:12           322,342 RenderSystem_Direct3D9_d.lib
+2013/04/10  16:12           312,086 RenderSystem_GL_d.lib
+2013/04/10  16:12             2,180 Sample_BezierPatch_d.lib
+2013/04/10  16:12             2,068 Sample_BSP_d.lib
+2013/04/10  16:12             2,180 Sample_CameraTrack_d.lib
+2013/04/10  16:12             2,164 Sample_CelShading_d.lib
+2013/04/10  16:12             2,152 Sample_Character_d.lib
+2013/04/10  16:12             2,164 Sample_Compositor_d.lib
+2013/04/10  16:12             2,180 Sample_CubeMapping_d.lib
+2013/04/10  16:13             2,236 Sample_DeferredShading_d.lib
+2013/04/10  16:13             2,136 Sample_Dot3Bump_d.lib
+2013/04/10  16:13             2,220 Sample_DualQuaternion_d.lib
+2013/04/10  16:13             2,108 Sample_DynTex_d.lib
+2013/04/10  16:13             2,236 Sample_FacialAnimation_d.lib
+2013/04/10  16:13             2,124 Sample_Fresnel_d.lib
+2013/04/10  16:13             2,096 Sample_Grass_d.lib
+2013/04/10  16:13             2,164 Sample_Instancing_d.lib
+2013/04/10  16:13             2,124 Sample_Isosurf_d.lib
+2013/04/10  16:13             2,136 Sample_Lighting_d.lib
+2013/04/10  16:13             2,208 Sample_NewInstancing_d.lib
+2013/04/10  16:13             2,096 Sample_Ocean_d.lib
+2013/04/10  16:13             2,164 Sample_ParticleFX_d.lib
+2013/04/10  16:13             2,164 Sample_ParticleGS_d.lib
+2013/04/10  16:13             2,192 Sample_ShaderSystem_d.lib
+2013/04/10  16:13             2,124 Sample_Shadows_d.lib
+2013/04/10  16:13             2,264 Sample_SkeletalAnimation_d.lib
+2013/04/10  16:13             2,108 Sample_SkyBox_d.lib
+2013/04/10  16:14             2,124 Sample_SkyDome_d.lib
+2013/04/10  16:14             2,136 Sample_SkyPlane_d.lib
+2013/04/10  16:14             2,096 Sample_Smoke_d.lib
+2013/04/10  16:14             2,208 Sample_SphereMapping_d.lib
+2013/04/10  16:13             2,080 Sample_SSAO_d.lib
+2013/04/10  16:11             2,124 Sample_Terrain_d.lib
+2013/04/10  16:11             2,192 Sample_TextureArray_d.lib
+2013/04/10  16:11             2,152 Sample_TextureFX_d.lib
+2013/04/10  16:11             2,192 Sample_Transparency_d.lib
+2013/04/10  16:11             2,152 Sample_VolumeTex_d.lib
+2013/04/10  16:12             2,096 Sample_Water_d.lib
+              48 个文件      6,581,064 字节
+               0 个目录 46,786,584,576 可用字节

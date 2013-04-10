@@ -1,0 +1,31 @@
+ 驱动器 D 中的卷没有标签。
+ 卷的序列号是 EC54-D443
+
+ D:\ogreoutput\lib\Debug 的目录
+
+OgreMain_d.lib                    OgrePaging_d.lib
+OgreRTShaderSystem_d.lib          OgreTerrain_d.lib
+Plugin_BSPSceneManager_d.lib      Plugin_CgProgramManager_d.lib
+Plugin_OctreeSceneManager_d.lib   Plugin_OctreeZone_d.lib
+Plugin_ParticleFX_d.lib           Plugin_PCZSceneManager_d.lib
+RenderSystem_Direct3D9_d.lib      RenderSystem_GL_d.lib
+Sample_BezierPatch_d.lib          Sample_BSP_d.lib
+Sample_CameraTrack_d.lib          Sample_CelShading_d.lib
+Sample_Character_d.lib            Sample_Compositor_d.lib
+Sample_CubeMapping_d.lib          Sample_DeferredShading_d.lib
+Sample_Dot3Bump_d.lib             Sample_DualQuaternion_d.lib
+Sample_DynTex_d.lib               Sample_FacialAnimation_d.lib
+Sample_Fresnel_d.lib              Sample_Grass_d.lib
+Sample_Instancing_d.lib           Sample_Isosurf_d.lib
+Sample_Lighting_d.lib             Sample_NewInstancing_d.lib
+Sample_Ocean_d.lib                Sample_ParticleFX_d.lib
+Sample_ParticleGS_d.lib           Sample_ShaderSystem_d.lib
+Sample_Shadows_d.lib              Sample_SkeletalAnimation_d.lib
+Sample_SkyBox_d.lib               Sample_SkyDome_d.lib
+Sample_SkyPlane_d.lib             Sample_Smoke_d.lib
+Sample_SphereMapping_d.lib        Sample_SSAO_d.lib
+Sample_Terrain_d.lib              Sample_TextureArray_d.lib
+Sample_TextureFX_d.lib            Sample_Transparency_d.lib
+Sample_VolumeTex_d.lib            Sample_Water_d.lib
+              48 个文件      6,581,064 字节
+               0 个目录 46,768,930,816 可用字节
